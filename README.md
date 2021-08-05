@@ -85,7 +85,7 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 
 ## Session String
 Different ways to get your `SESSION`:
-* [![Run on Repl.it](https://replit.com/@Ramrl/Rpl-1#main.py)](https://replit.com/@TeamUltroid/UltroidStringSession)
+* [![Run on Repl.it](https://replit.com/@Ramrl/Rpl-1#main.py)](https://replit.com/@Ramrl/Rpl-1#main.py)
 * Linux : `bash -c "$(curl -fsSL https://git.io/JY9JI)"`
 * PowerShell : `cd desktop ; wget https://git.io/JY9JI ; python ultroid.py`
 * Termux : `sh -c "$(curl -fsSL https://da.gd/termux-tel)"`
